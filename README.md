@@ -1,8 +1,8 @@
 <!-- Banner (light / dark) -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:3a2a2f&height=200&section=header&text=Cassandra%20Perche&fontSize=44&fontColor=f4e6ea&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Technical%20Project%20Manager&descAlignY=58&descSize=16&animation=fadeIn" />
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:f4e6ea&height=200&section=header&text=Cassandra%20Perche&fontSize=44&fontColor=2b2b2b&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Technical%20Project%20Manager&descAlignY=58&descSize=16&animation=fadeIn" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:3a2a2f,100:A8878F&height=200&section=header&text=Cassandra%20Perche&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Technical%20Project%20Manager&descAlignY=58&descSize=16" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:f4e6ea&height=200&section=header&text=Cassandra%20Perche&fontSize=44&fontColor=2b2b2b&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Technical%20Project%20Manager&descAlignY=58&descSize=16" />
   </picture>
 </p>
 
@@ -99,7 +99,7 @@ Junior **full-stack** and **technical project management** roles, remote.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:3a2a2f,100:0d1117&height=110&section=footer" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:A8878F,100:3a2a2f&height=110&section=footer" />
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f4e6ea,100:ffffff&height=110&section=footer" />
   </picture>
 </p>
