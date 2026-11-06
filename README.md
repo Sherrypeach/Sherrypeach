@@ -58,7 +58,7 @@ Junior **full-stack** and **technical project management** roles, remote.
 
 ## Featured project
 
-**Chore tracking app**: built on my own with NestJS, React and PostgreSQL, from planning to deployment, using Claude Code. This is the project that got me hired at PandoDev.
+**Coming soon**: built on my own with NestJS, React and PostgreSQL, from planning to deployment, using Claude Code. This is the project that got me hired at PandoDev.
 
 <p align="center">
   <a href="https://github.com/Sherrypeach/sacrament-meetings">
