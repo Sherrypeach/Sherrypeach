@@ -18,11 +18,10 @@
 ## Meet me
 
 <p align="center">
-  <a href="https://youtu.be/2TucCSTVxi8">
-    <img src="./intro_preview.gif" alt="Watch my intro video" width="420" />
-  </a>
-  <br />
-  <sub><a href="https://youtu.be/2TucCSTVxi8">Watch in English</a> · <a href="https://youtu.be/E9XlOucYbzQ">Ver en español</a></sub>
+  <a href="https://youtu.be/2TucCSTVxi8"><img src="./intro_preview.gif" alt="Watch my intro video" width="420" /></a>
+  <br /><br />
+  <a href="https://youtu.be/2TucCSTVxi8"><img src="https://img.shields.io/badge/Watch_in_English-f4e6ea?style=for-the-badge&logo=youtube&logoColor=A8878F" /></a>
+  <a href="https://youtu.be/E9XlOucYbzQ"><img src="https://img.shields.io/badge/Ver_en_espa%C3%B1ol-f4e6ea?style=for-the-badge&logo=youtube&logoColor=A8878F" /></a>
 </p>
 
 ## About me
@@ -81,9 +80,7 @@ I'm Cassandra, a full-stack developer, project manager and customer service spec
 **Coming soon**: built on my own with NestJS, React and PostgreSQL, from planning to deployment, using Claude Code. This is the project that got me hired at PandoDev.
 
 <p align="center">
-  <a href="https://github.com/Sherrypeach/sacrament-meetings">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sherrypeach&repo=sacrament-meetings&hide_border=true&bg_color=00000000&title_color=A8878F&icon_color=A8878F&text_color=8b8b8b" />
-  </a>
+  <a href="https://github.com/Sherrypeach/sacrament-meetings"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sherrypeach&repo=sacrament-meetings&hide_border=true&bg_color=00000000&title_color=A8878F&icon_color=A8878F&text_color=8b8b8b" /></a>
 </p>
 
 ## GitHub activity
