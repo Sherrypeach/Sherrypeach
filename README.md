@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&pause=1200&color=A8878F&center=true&vCenter=true&width=620&lines=Full-stack+web+apps+with+NestJS+%C2%B7+React+%C2%B7+PostgreSQL;From+stakeholder+meeting+to+deployment;Bilingual+%E2%80%94+English+%2F+Spanish" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&pause=1200&color=A8878F&center=true&vCenter=true&width=620&lines=Full-stack+web+apps+with+NestJS+%C2%B7+React+%C2%B7+PostgreSQL;Mobile+apps+with+React+Native;From+client+meeting+to+launch;Bilingual+%E2%80%94+English+%2F+Spanish" />
 </p>
 
 <p align="center">
@@ -15,19 +15,33 @@
   <a href="mailto:casperche27@gmail.com"><img src="https://img.shields.io/badge/Email-f4e6ea?style=for-the-badge&logo=gmail&logoColor=A8878F" /></a>
 </p>
 
+## Meet me
+
+<p align="center">
+  <a href="https://youtu.be/2TucCSTVxi8">
+    <img src="https://img.youtube.com/vi/2TucCSTVxi8/maxresdefault.jpg" alt="Watch my intro video" width="560" />
+  </a>
+  <br />
+  <sub>▶ <a href="https://youtu.be/2TucCSTVxi8">Watch in English</a> · <a href="https://youtu.be/E9XlOucYbzQ">Ver en español</a></sub>
+</p>
+
 ## About me
 
-I'm Cassandra, a full-stack developer and technical project manager based in Buenos Aires, Argentina. I build web apps end to end with NestJS, React and PostgreSQL, and I'm just as comfortable meeting with stakeholders, writing specs and keeping a project on schedule. Claude Code is part of my daily workflow, and I review and test everything it produces.
+I'm Cassandra, a full-stack developer, project manager and customer service specialist based in Argentina. I build web and mobile apps end to end with React, React Native, NestJS and PostgreSQL, and I'm just as comfortable meeting with stakeholders, writing specs and keeping a project on schedule. Claude Code is part of my daily workflow, and I review and test everything it produces.
 
 - **Technical Project Manager & Full-Stack Developer** at PandoDev (remote startup, Utah), Aug–Nov 2026
+- **Freelance Web Developer** since 2022: websites, apps and online stores for clients from small businesses to large companies
+- Published **React Native** apps to the **App Store** and **Google Play**
 - **Project Manager** at Alianza Idiomas (remote startup), 2022–2026
-- Studying **B.S. Software Development** at **BYU-Idaho**
-- Working toward **PMP** and **PMI-CPMAI**
-- Native in **English** and **Spanish**
+- **Customer Service Representative** for a U.S. company
+- Studying **B.S. Software Development** at **BYU-Idaho**, working toward **PMP** and **PMI-CPMAI**
+- Fluent in **English**, native **Spanish**
+
+Most of my client work is under NDA, so it doesn't live here. Details and walkthroughs are available on request.
 
 ## Open to
 
-Junior **full-stack** and **technical project management** roles, remote.
+**Full-stack**, **mobile**, **project management** and **customer-facing** roles. Remote, full time or contract.
 
 ## Tech stack
 
@@ -49,6 +63,8 @@ Junior **full-stack** and **technical project management** roles, remote.
 </div>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/React%20Native-f4e6ea?style=for-the-badge&logo=react&logoColor=A8878F" />
+  <img src="https://img.shields.io/badge/Shopify-f4e6ea?style=for-the-badge&logo=shopify&logoColor=A8878F" />
   <img src="https://img.shields.io/badge/Claude%20Code-f4e6ea?style=for-the-badge&logo=anthropic&logoColor=A8878F" />
   <img src="https://img.shields.io/badge/GitHub%20Copilot-f4e6ea?style=for-the-badge&logo=githubcopilot&logoColor=A8878F" />
   <img src="https://img.shields.io/badge/ChatGPT-f4e6ea?style=for-the-badge&logo=openai&logoColor=A8878F" />
@@ -62,7 +78,7 @@ Junior **full-stack** and **technical project management** roles, remote.
 
 <p align="center">
   <a href="https://github.com/Sherrypeach/sacrament-meetings">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sherrypeach&repo=sacrament-meetings&hide_border=true&bg_color=ffffff&title_color=A8878F&icon_color=A8878F&text_color=2b2b2b" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sherrypeach&repo=sacrament-meetings&hide_border=true&bg_color=00000000&title_color=A8878F&icon_color=A8878F&text_color=8b8b8b" />
   </a>
 </p>
 
