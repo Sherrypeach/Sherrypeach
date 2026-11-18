@@ -19,10 +19,10 @@
 
 <p align="center">
   <a href="https://youtu.be/2TucCSTVxi8">
-    <img src="https://img.youtube.com/vi/2TucCSTVxi8/maxresdefault.jpg" alt="Watch my intro video" width="560" />
+    <img src="./intro_preview.gif" alt="Watch my intro video" width="420" />
   </a>
   <br />
-  <sub>▶ <a href="https://youtu.be/2TucCSTVxi8">Watch in English</a> · <a href="https://youtu.be/E9XlOucYbzQ">Ver en español</a></sub>
+  <sub><a href="https://youtu.be/2TucCSTVxi8">Watch in English</a> · <a href="https://youtu.be/E9XlOucYbzQ">Ver en español</a></sub>
 </p>
 
 ## About me
@@ -37,7 +37,11 @@ I'm Cassandra, a full-stack developer, project manager and customer service spec
 - Studying **B.S. Software Development** at **BYU-Idaho**, working toward **PMP** and **PMI-CPMAI**
 - Fluent in **English**, native **Spanish**
 
-Most of my client work is under NDA, so it doesn't live here. Details and walkthroughs are available on request.
+> [!IMPORTANT]
+> ### 🔒 Most of my client work is under NDA
+> That's why most of it doesn't live on GitHub. I've built web apps, mobile apps and online stores for clients from small businesses to large companies.
+>
+> **Details and walkthroughs are available on request.** [Email me](mailto:casperche27@gmail.com)
 
 ## Open to
 
