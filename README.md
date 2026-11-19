@@ -77,10 +77,12 @@ I'm Cassandra, a full-stack developer, project manager and customer service spec
 
 ## Featured project
 
-**Coming soon**: built on my own with NestJS, React and PostgreSQL, from planning to deployment, using Claude Code. This is the project that got me hired at PandoDev.
+**SpotPlan** — an office seating planner built end to end with NestJS, React, GraphQL and PostgreSQL, from planning to deployment, using Claude Code. Add your team, draw the office, pick a layout, and a scoring engine seats everyone by support level, quiet spots and who should sit apart. Then print or share the chart.
+
+🔗 **[Live demo](https://spotplan.onrender.com)** · login `demo@spotplan.app` / `SpotPlanDemo2026`
 
 <p align="center">
-  <a href="https://github.com/Sherrypeach/sacrament-meetings"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sherrypeach&repo=sacrament-meetings&hide_border=true&bg_color=00000000&title_color=A8878F&icon_color=A8878F&text_color=8b8b8b" /></a>
+  <a href="https://github.com/Sherrypeach/spotplan"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sherrypeach&repo=spotplan&hide_border=true&bg_color=00000000&title_color=A8878F&icon_color=A8878F&text_color=8b8b8b" /></a>
 </p>
 
 ## GitHub activity
