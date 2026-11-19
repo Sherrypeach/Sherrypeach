@@ -77,7 +77,7 @@ I'm Cassandra, a full-stack developer, project manager and customer service spec
 
 ## Featured project
 
-**SpotPlan** — an office seating planner built end to end with NestJS, React, GraphQL and PostgreSQL, from planning to deployment, using Claude Code. Add your team, draw the office, pick a layout, and a scoring engine seats everyone by support level, quiet spots and who should sit apart. Then print or share the chart.
+**SpotPlan** is an office seating planner built end to end with NestJS, React, GraphQL and PostgreSQL, from planning to deployment, using Claude Code. Add your team, draw the office, pick a layout, and a scoring engine seats everyone by support level, quiet spots and who should sit apart. Then print or share the chart.
 
 🔗 **[Live demo](https://spotplan.onrender.com)** · login `demo@spotplan.app` / `SpotPlanDemo2026`
 
