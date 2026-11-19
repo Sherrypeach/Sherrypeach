@@ -82,6 +82,10 @@ I'm Cassandra, a full-stack developer, project manager and customer service spec
 🔗 **[Live demo](https://spotplan.onrender.com)** · login `demo@spotplan.app` / `SpotPlanDemo2026`
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Sherrypeach/spotplan/main/docs/screenshots/banner.png" alt="SpotPlan screenshots" width="100%" />
+</p>
+
+<p align="center">
   <a href="https://github.com/Sherrypeach/spotplan"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sherrypeach&repo=spotplan&hide_border=true&bg_color=00000000&title_color=A8878F&icon_color=A8878F&text_color=8b8b8b" /></a>
 </p>
 
